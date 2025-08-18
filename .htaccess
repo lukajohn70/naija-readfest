@@ -1,0 +1,20 @@
+# Naija ReadFest - Simple .htaccess for MAMP
+# Basic configuration for local development
+
+# Set default index file
+DirectoryIndex index.php index.html
+
+# Enable URL rewriting (if available)
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+</IfModule>
+
+# Basic security headers (if mod_headers is available)
+<IfModule mod_headers.c>
+    Header always set X-Content-Type-Options nosniff
+    Header always set X-Frame-Options DENY
+    Header always set X-XSS-Protection "1; mode=block"
+</IfModule>
+
+# Handle 404 errors gracefully
+ErrorDocument 404 /index.php?page=home

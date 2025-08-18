@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global styles */
+body {
+  @apply bg-gray-50 text-gray-900 transition-colors duration-300;
+  overflow-x: hidden;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Enhanced button styles */
+button, .button {
+  @apply transition-all duration-300;
+}
+
+/* Enhanced card styles */
+.card-hover {
+  @apply transition-all duration-300 hover:shadow-xl hover:-translate-y-1;
+}
+
+/* Animated gradient text */
+.animated-gradient-text {
+  @apply bg-clip-text text-transparent bg-gradient-to-r;
+  background-size: 200% auto;
+  animation: gradientText 5s ease infinite;
+}
+
+@keyframes gradientText {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* Enhanced shadows */
+.shadow-enhanced {
+  box-shadow: 0 10px 40px -10px rgba(0,0,0,0.2);
+}
+
+/* Example dark mode for cards and containers */
+.dark .bg-white {
+  background-color: #23272f !important;
+}
+.dark .text-black {
+  color: #f3f4f6 !important;
+}
+.dark .shadow-xl, .dark .shadow-2xl, .dark .shadow-lg {
+  box-shadow: 0 4px 32px 0 rgba(0,0,0,0.45) !important;
+}
