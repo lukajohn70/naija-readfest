@@ -11,6 +11,12 @@
       <div class="flex flex-wrap justify-center gap-4 mb-4">
         <span class="bg-gray-800/80 text-white px-6 py-2 rounded-full text-lg font-semibold flex items-center gap-2 border border-white/20">August 12 - 30, 2025 • Lagos, Nigeria</span>
       </div>
+      
+      <!-- Marathon Progress Tracker -->
+      <div class="mb-6 max-w-4xl mx-auto">
+        <?php include 'marathon-progress.php'; ?>
+      </div>
+      
              <div class="flex justify-center">
                        <a href="https://youtube.com/@nigeriareads5491/live" target="_blank" rel="noopener noreferrer" class="inline-block bg-red-600 text-white font-bold px-8 py-3 rounded-full text-lg shadow border-2 border-white hover:bg-red-700 transition-colors duration-200 cursor-pointer" style="letter-spacing: 0.04em;">LIVE NOW</a>
        </div>

@@ -28,29 +28,16 @@
       <h1 class="text-5xl md:text-7xl font-extrabold text-white mb-2 tracking-tight drop-shadow-lg text-center">
         Naija <span style="color:#008000;">Read</span>Fest
       </h1>
-      <h2 class="text-4xl md:text-5xl font-extrabold text-white mb-4 tracking-tight drop-shadow-lg text-center">
-        <span class="bg-clip-text text-transparent bg-gradient-to-r from-yellow-300 via-yellow-200 to-yellow-300 animate-pulse">Bigger, Bolder, and More Unforgettable!</span>
-      </h2>
-      <div class="text-xl md:text-2xl font-semibold text-yellow-200 mb-6 max-w-3xl text-center drop-shadow-md">
+      <div class="text-xl md:text-2xl font-semibold text-yellow-200 mb-6 max-w-4xl text-center drop-shadow-md">
         Guinness World Record – Official Attempt: Longest Marathon Reading Aloud by a Team
       </div>
-      <div class="flex flex-wrap justify-center gap-3 mb-4">
-        <span class="bg-white/20 text-white px-4 py-1 rounded-full text-base font-medium flex items-center gap-2">
-          <i class="fas fa-calendar-alt"></i> August 12 - 30, 2025
-        </span>
-        <span class="bg-white/20 text-white px-4 py-1 rounded-full text-base font-medium">Lagos, Nigeria</span>
+      
+      <!-- Marathon Progress Tracker -->
+      <div class="mb-8 max-w-4xl mx-auto">
+        <?php include 'marathon-progress.php'; ?>
       </div>
-      <div class="mb-6">
-        <span class="inline-block bg-gradient-to-r from-yellow-400 via-yellow-300 to-yellow-400 text-black font-bold px-8 py-3 rounded-full text-lg shadow border-2 border-white faint-pulse" style="letter-spacing: 0.04em;">Guinness World Record – Official Attempt</span>
-      </div>
-      <div class="mb-6">
-                 <a href="https://youtube.com/@nigeriareads5491/live" target="_blank" rel="noopener noreferrer" class="inline-block bg-red-600 text-white font-bold px-8 py-3 rounded-full text-lg shadow border-2 border-white hover:bg-red-700 transition-colors duration-200 cursor-pointer" style="letter-spacing: 0.04em;">LIVE NOW - WATCH THE EVENT!</a>
-      </div>
+      
 
-      <div class="flex flex-col md:flex-row gap-4 justify-center w-full max-w-2xl mx-auto" style="position:relative; z-index:2;">
-        <a href="index.php?page=live-stream" class="px-8 py-4 rounded-full bg-red-600 text-white font-bold text-xl flex items-center gap-2 shadow-lg hover:bg-red-700 transition w-full md:w-auto justify-center"><i class="fas fa-play-circle"></i> WATCH LIVE (GWR Official)</a>
-        <a href="index.php?page=schedule" class="px-8 py-4 rounded-full bg-transparent text-white font-extrabold text-xl flex items-center gap-2 shadow-sm border-2 border-white transition w-full md:w-auto justify-center view-schedule-btn" style="box-shadow:0 2px 8px 0 rgba(0,0,0,0.06);"><i class="fas fa-calendar-alt"></i> VIEW SCHEDULE</a>
-      </div>
       <style>
         .view-schedule-btn:hover {
           background: #fff !important;

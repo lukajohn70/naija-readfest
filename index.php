@@ -1,11 +1,45 @@
 <?php
 // Main entry point for Naija ReadFest PHP version
+session_start();
+
 $page = isset($_GET['page']) ? $_GET['page'] : 'home';
 $valid_pages = [
-  'home', 'about', 'objectives', 'team', 'schedule', 'reading-list', 'partners', 'live-stream', 'contact', 'gallery', 'volunteer'
+  'home', 'about', 'objectives', 'team', 'schedule', 'reading-list', 'partners', 'live-stream', 'progress', 'contact', 'gallery', 'volunteer', 'volunteer-meals', 'volunteer-profile'
 ];
 if (!in_array($page, $valid_pages)) {
   $page = 'home';
+}
+
+// Handle volunteer profile access control
+if ($page === 'volunteer-profile') {
+    // Handle logout first
+    if (isset($_GET['action']) && $_GET['action'] === 'logout') {
+        session_destroy();
+        header('Location: index.php?page=volunteer-profile');
+        exit;
+    }
+    
+    // Check if volunteer is logged in
+    $isLoggedIn = isset($_SESSION['volunteer_id']);
+    
+    // Check if this page was accessed directly or redirected from meal booking
+    $redirectedFromMeals = isset($_GET['from']) && $_GET['from'] === 'meals';
+    
+    // If accessed directly and not logged in, redirect to home page
+    if (!$isLoggedIn && !$redirectedFromMeals) {
+        header('Location: index.php?page=home');
+        exit;
+    }
+}
+
+// Handle volunteer meals access control
+if ($page === 'volunteer-meals') {
+    // Check if volunteer is logged in
+    if (!isset($_SESSION['volunteer_id'])) {
+        // Redirect to volunteer profile page for registration with from parameter
+        header('Location: index.php?page=volunteer-profile&from=meals');
+        exit;
+    }
 }
 ?><!DOCTYPE html>
 <html lang="en">
