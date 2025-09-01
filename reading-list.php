@@ -11,7 +11,7 @@
       <span class="bg-gray-800/80 text-white px-6 py-2 rounded-full text-lg font-semibold flex items-center gap-2 border border-white/20">424-Hour Guinness World Record – Official Attempt COMPLETED</span>
     </div>
     <div class="flex justify-center">
-      <span class="inline-block bg-yellow-300 text-black font-bold px-8 py-3 rounded-full text-lg shadow border-2 border-white" style="letter-spacing: 0.04em;">🎉 RECORD ACHIEVED! 🎉</span>
+      <span class="inline-block bg-yellow-300 text-black font-bold px-8 py-3 rounded-full text-lg shadow border-2 border-white" style="letter-spacing: 0.04em;">⏳ CERTIFICATION PENDING</span>
     </div>
   </div>
 </div>

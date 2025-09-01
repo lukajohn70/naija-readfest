@@ -63,11 +63,12 @@
         <p class="text-xl text-gray-800 mb-4">We successfully completed our extraordinary <span class="font-bold text-red-700">Guinness World Record – Official Attempt</span> by reading aloud for</p>
         <p class="text-3xl font-extrabold text-green-600 mb-4 drop-shadow-sm">424 hours (18 consecutive days).</p>
         <p class="text-xl text-gray-700 leading-relaxed">This was more than a record—it was a movement that ignited Nigeria's reading culture, celebrated our stories, and united the nation through the power of books.</p>
+        <p class="text-lg text-yellow-600 font-semibold mt-4">⏳ Currently awaiting Guinness World Records certification</p>
       </div>
       <div class="flex flex-col items-center">
         <div class="group bg-white rounded-lg border-4 border-yellow-400 w-fit relative transition-transform duration-300" style="box-shadow: 0 12px 40px 0 rgba(0,0,0,0.15); transform: rotate(-2deg); min-width: 340px; padding: 1.5rem 2rem 3rem 2rem;">
           <span class="gwr-logo-rotate"><img src="public/gwr.png" alt="GWR Official Attempt" class="h-56 w-auto object-contain mx-auto drop-shadow-md" style="display: block;" /></span>
-          <span class="block text-yellow-700 font-semibold tracking-wide text-sm text-center" style="letter-spacing: 0.08em; margin-top: 0.5rem; position: absolute; left: 50%; transform: translateX(-50%); bottom: 0.7rem; width: 100%; text-align: center; font-size: 1rem;">GWR OFFICIAL ATTEMPT COMPLETED</span>
+          <span class="block text-yellow-700 font-semibold tracking-wide text-sm text-center" style="letter-spacing: 0.08em; margin-top: 0.5rem; position: absolute; left: 50%; transform: translateX(-50%); bottom: 0.7rem; width: 100%; text-align: center; font-size: 1rem;">GWR OFFICIAL ATTEMPT - CERTIFICATION PENDING</span>
         </div>
       </div>
     </div>

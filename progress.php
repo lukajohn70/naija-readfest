@@ -15,7 +15,7 @@ date_default_timezone_set('Africa/Lagos');
     <div class="flex flex-wrap justify-center gap-4 mb-4">
       <span class="bg-green-600 text-white px-6 py-2 rounded-full text-lg font-semibold flex items-center gap-2 border border-white/20">
         <i class="fas fa-trophy"></i>
-        🎉 RECORD ACHIEVED! 🎉
+        ⏳ CERTIFICATION PENDING
       </span>
       <span class="bg-gray-800/80 text-white px-6 py-2 rounded-full text-lg font-semibold border border-white/20">
         <i class="fas fa-check-circle"></i>
@@ -230,12 +230,12 @@ date_default_timezone_set('Africa/Lagos');
   
   <!-- Celebration Section -->
   <div class="bg-gradient-to-r from-yellow-600 to-yellow-700 rounded-2xl shadow-xl p-8 text-white text-center">
-    <h2 class="text-3xl font-bold mb-4">🎉 Mission Accomplished! 🎉</h2>
-    <p class="text-xl mb-6">We successfully completed our historic Guinness World Record attempt for the Longest Marathon Reading Aloud by a Team</p>
+    <h2 class="text-3xl font-bold mb-4">🎉 Marathon Completed Successfully! 🎉</h2>
+    <p class="text-xl mb-6">We successfully completed our historic Guinness World Record attempt for the Longest Marathon Reading Aloud by a Team. Currently awaiting Guinness World Records certification.</p>
     <div class="flex flex-col sm:flex-row gap-4 justify-center">
       <div class="bg-white text-yellow-600 font-bold px-8 py-4 rounded-full text-lg flex items-center justify-center gap-2">
-        <i class="fas fa-trophy"></i>
-        Guinness World Record Holder
+        <i class="fas fa-clock"></i>
+        Certification Pending
       </div>
     </div>
   </div>

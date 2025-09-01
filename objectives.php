@@ -14,8 +14,8 @@
       <span class="bg-gray-800/80 text-white px-6 py-2 rounded-full text-lg font-semibold border border-white/20">Lagos, Nigeria</span>
     </div>
     <div class="flex justify-center">
-      <div class="inline-flex items-center justify-center bg-green-600 text-white font-bold px-8 py-4 rounded-full text-lg shadow-md border-2 border-white">
-        🎉 RECORD ACHIEVED! 🎉
+      <div class="inline-flex items-center justify-center bg-yellow-400 text-gray-900 font-bold px-8 py-4 rounded-full text-lg shadow-md border-2 border-white">
+        ⏳ CERTIFICATION PENDING
       </div>
     </div>
   </div>

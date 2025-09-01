@@ -21,7 +21,7 @@ $progressPercentage = 100;
       <h2 class="text-2xl font-bold">🎉 MARATHON COMPLETED! 🎉</h2>
       <div class="w-3 h-3 bg-yellow-400 rounded-full"></div>
     </div>
-    <p class="text-green-200 text-lg mb-4">Guinness World Record Reading Marathon - SUCCESS!</p>
+    <p class="text-green-200 text-lg mb-4">Guinness World Record Reading Marathon - AWAITING CERTIFICATION</p>
     
     <!-- Achievement Display -->
     <div class="bg-white/20 rounded-xl p-6 mb-4">
@@ -44,7 +44,7 @@ $progressPercentage = 100;
     
     <!-- Celebration Message -->
     <div class="mt-6 bg-yellow-400 text-green-800 px-4 py-2 rounded-full text-sm font-bold">
-      🏆 GUINNESS WORLD RECORD HOLDER 🏆
+      ⏳ CERTIFICATION PENDING
     </div>
   </div>
 </div>
