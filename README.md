@@ -4,21 +4,12 @@ A comprehensive website for the Naija ReadFest event, built with PHP and modern 
 
 ## Features
 
-- **Home Page**: Landing page with event highlights and navigation
-- **About Page**: Information about the festival and its mission
-- **Schedule**: Event schedule and timeline
-- **Gallery**: Photo gallery showcasing past events
-- **Partners**: Information about event partners and sponsors
-- **Team**: Meet the organizing team
-- **Contact**: Contact information and form
-- **Admin Panel**: Administrative interface for managing content
-- **Export Functionality**: PDF, Excel, and Word document export capabilities
-- **Live Stream**: Live streaming integration
-- **Volunteer Registration**: Volunteer sign-up system
-- **Exhibitor Information**: Details for potential exhibitors
-- **Reading List**: Curated reading materials
-- **Objectives**: Festival goals and objectives
-- **Marathoners**: Information about reading marathon participants
+- **Event Information**: Comprehensive details about the Naija ReadFest marathon
+- **Reading List**: Curated collection of 50+ Nigerian literary masterpieces
+- **Progress Tracking**: Real-time marathon progress and milestone tracking
+- **Partner Information**: Details about supporting organizations and sponsors
+- **Gallery**: Visual documentation of the event
+- **Contact System**: Easy communication with the Naija ReadFest team
 
 ## Technology Stack
 

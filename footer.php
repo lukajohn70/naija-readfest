@@ -15,15 +15,10 @@
       </div>
       <div>
         <h3 class="text-lg font-semibold mb-4">Quick Links</h3>
-        <ul class="space-y-2 text-sm">
-          <li><a href="index.php?page=home" class="text-gray-400 hover:text-green-600 transition-colors duration-200">Home</a></li>
-          <li><a href="index.php?page=about" class="text-gray-400 hover:text-green-600 transition-colors duration-200">About</a></li>
-          <li><a href="index.php?page=objectives" class="text-gray-400 hover:text-green-600 transition-colors duration-200">Objectives</a></li>
-          <li><a href="index.php?page=schedule" class="text-gray-400 hover:text-green-600 transition-colors duration-200">Schedule</a></li>
-          <li><a href="index.php?page=live-stream" class="text-gray-400 hover:text-green-600 transition-colors duration-200">Live Stream</a></li>
-          <li><a href="index.php?page=contact" class="text-gray-400 hover:text-green-600 transition-colors duration-200">Contact</a></li>
-          <li><a href="index.php?page=volunteer-profile" class="text-gray-400 hover:text-green-600 transition-colors duration-200 flex items-center"><i class="fas fa-user-circle mr-2"></i>Volunteer Profile</a></li>
-          <li><a href="index.php?page=volunteer-meals" class="text-gray-400 hover:text-green-600 transition-colors duration-200 flex items-center"><i class="fas fa-utensils mr-2"></i>Volunteer Meals</a></li>
+        <ul class="space-y-2">
+          <li><a href="index.php?page=about" class="text-gray-400 hover:text-green-600 transition-colors duration-200 flex items-center"><i class="fas fa-info-circle mr-2"></i>About</a></li>
+          <li><a href="index.php?page=objectives" class="text-gray-400 hover:text-green-600 transition-colors duration-200 flex items-center"><i class="fas fa-bullseye mr-2"></i>Objectives</a></li>
+          <li><a href="index.php?page=team" class="text-gray-400 hover:text-green-600 transition-colors duration-200 flex items-center"><i class="fas fa-users mr-2"></i>Team</a></li>
         </ul>
       </div>
       <div>

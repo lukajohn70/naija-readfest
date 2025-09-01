@@ -21,7 +21,7 @@
   <!-- Introduction -->
   <div class="text-center mb-8 mt-16">
     <h1 class="text-3xl font-extrabold text-green-700 mb-4">Get in Touch</h1>
-    <p class="text-lg text-gray-700">We'd love to hear from you! Whether you have questions about Naija ReadFest, want to partner, volunteer, or just share your thoughts, our team is here to help. Use the contact details below and we'll get back to you as soon as possible.</p>
+    <p class="text-lg text-gray-700">We'd love to hear from you! Whether you have questions about Naija ReadFest, want to partner, or just share your thoughts, our team is here to help. Use the contact details below and we'll get back to you as soon as possible.</p>
   </div>
   <div class="container mx-auto px-6 py-12">
     <div class="max-w-6xl mx-auto p-6 md:p-12 rounded-3xl shadow-2xl bg-white">
@@ -75,14 +75,6 @@
       <div class="bg-white rounded-2xl shadow-lg p-10 mb-12">
         <h2 class="text-3xl font-extrabold text-center mb-10 text-green-700">Why Contact Us?</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-          <!-- Volunteer -->
-          <div class="flex flex-col items-center text-center">
-            <div class="bg-green-100 rounded-full w-14 h-14 flex items-center justify-center mb-4">
-              <i class="fas fa-book text-green-600" style="font-size:32px;"></i>
-            </div>
-            <h3 class="text-xl font-bold mb-2">Volunteer Opportunities</h3>
-            <p class="text-gray-700">Join our team and be part of this historic event</p>
-          </div>
           <!-- Partnership -->
           <div class="flex flex-col items-center text-center">
             <div class="bg-red-100 rounded-full w-14 h-14 flex items-center justify-center mb-4">
