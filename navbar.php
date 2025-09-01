@@ -5,10 +5,8 @@ $navItems = [
   ['name' => 'Home', 'id' => 'home'],
   ['name' => 'About', 'id' => 'about'],
   ['name' => 'Objectives', 'id' => 'objectives'],
-  ['name' => 'Live Stream', 'id' => 'live-stream'],
   ['name' => 'Progress', 'id' => 'progress'],
   ['name' => 'Contact', 'id' => 'contact'],
-  ['name' => 'Exhibitor Application', 'id' => 'exhibitor'],
 ];
 $discoverItems = [
   ['name' => 'Team', 'id' => 'team'],
@@ -16,7 +14,6 @@ $discoverItems = [
   ['name' => 'Reading List', 'id' => 'reading-list'],
   ['name' => 'Partners', 'id' => 'partners'],
   ['name' => 'Gallery', 'id' => 'gallery'],
-  ['name' => 'Volunteer', 'id' => 'volunteer'],
 ];
 ?>
 <nav class="bg-white shadow-lg sticky top-0 z-50 border-b border-gray-200">

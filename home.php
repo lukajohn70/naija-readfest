@@ -31,6 +31,9 @@
       <div class="text-xl md:text-2xl font-semibold text-yellow-200 mb-6 max-w-4xl text-center drop-shadow-md">
         Guinness World Record – Official Attempt: Longest Marathon Reading Aloud by a Team
       </div>
+      <div class="bg-green-600 text-white px-8 py-4 rounded-full text-xl font-bold mb-6 shadow-lg">
+        🎉 EVENT COMPLETED SUCCESSFULLY! 🎉
+      </div>
       
 
       
@@ -56,15 +59,15 @@
   <div class="container mx-auto px-6 py-24">
     <div class="grid md:grid-cols-2 gap-32 items-center">
       <div>
-        <h2 class="text-3xl font-extrabold mb-4">Welcome to a Historic Literary Challenge</h2>
-        <p class="text-xl text-gray-800 mb-4">Join us for an extraordinary <span class="font-bold text-red-700">Guinness World Record – Official Attempt</span> as we read aloud for</p>
+        <h2 class="text-3xl font-extrabold mb-4">A Historic Literary Achievement Completed</h2>
+        <p class="text-xl text-gray-800 mb-4">We successfully completed our extraordinary <span class="font-bold text-red-700">Guinness World Record – Official Attempt</span> by reading aloud for</p>
         <p class="text-3xl font-extrabold text-green-600 mb-4 drop-shadow-sm">424 hours (18 consecutive days).</p>
-        <p class="text-xl text-gray-700 leading-relaxed">This is more than a record—it's a movement to ignite Nigeria's reading culture, celebrate our stories, and unite the nation through the power of books.</p>
+        <p class="text-xl text-gray-700 leading-relaxed">This was more than a record—it was a movement that ignited Nigeria's reading culture, celebrated our stories, and united the nation through the power of books.</p>
       </div>
       <div class="flex flex-col items-center">
         <div class="group bg-white rounded-lg border-4 border-yellow-400 w-fit relative transition-transform duration-300" style="box-shadow: 0 12px 40px 0 rgba(0,0,0,0.15); transform: rotate(-2deg); min-width: 340px; padding: 1.5rem 2rem 3rem 2rem;">
           <span class="gwr-logo-rotate"><img src="public/gwr.png" alt="GWR Official Attempt" class="h-56 w-auto object-contain mx-auto drop-shadow-md" style="display: block;" /></span>
-          <span class="block text-yellow-700 font-semibold tracking-wide text-sm text-center" style="letter-spacing: 0.08em; margin-top: 0.5rem; position: absolute; left: 50%; transform: translateX(-50%); bottom: 0.7rem; width: 100%; text-align: center; font-size: 1rem;">GWR OFFICIAL ATTEMPT</span>
+          <span class="block text-yellow-700 font-semibold tracking-wide text-sm text-center" style="letter-spacing: 0.08em; margin-top: 0.5rem; position: absolute; left: 50%; transform: translateX(-50%); bottom: 0.7rem; width: 100%; text-align: center; font-size: 1rem;">GWR OFFICIAL ATTEMPT COMPLETED</span>
         </div>
       </div>
     </div>
@@ -72,23 +75,23 @@
   <!-- GET INVOLVED SECTION -->
   <div class="bg-gradient-to-b from-gray-50 to-gray-100 py-24 relative overflow-hidden">
     <div class="container mx-auto px-6 text-center">
-      <h2 class="text-3xl font-extrabold mb-4">Get Involved in the Record</h2>
-      <p class="text-lg text-gray-700 mb-8">Join us in making history with this extraordinary literary event</p>
+      <h2 class="text-3xl font-extrabold mb-4">Relive the Record-Breaking Event</h2>
+      <p class="text-lg text-gray-700 mb-8">Explore the historic moments and achievements from our extraordinary literary event</p>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
         <a href="index.php?page=about" class="block border-2 border-green-500 rounded-lg p-8 shadow-lg hover:shadow-xl transition card-hover">
           <div class="mb-4"><i class="fas fa-bullseye fa-2x text-green-600"></i></div>
           <h3 class="text-xl font-bold mb-2">About the Attempt</h3>
-          <p class="text-gray-700">Discover the vision and rules behind our GWR journey.</p>
+          <p class="text-gray-700">Discover the vision and rules behind our successful GWR journey.</p>
         </a>
         <a href="index.php?page=partners" class="block border-2 border-red-500 rounded-lg p-8 shadow-lg hover:shadow-xl transition card-hover">
           <div class="mb-4"><i class="fas fa-handshake fa-2x text-red-700"></i></div>
-          <h3 class="text-xl font-bold mb-2">Become a Partner</h3>
-          <p class="text-gray-700">Support literacy and be part of a world record.</p>
+          <h3 class="text-xl font-bold mb-2">Our Partners</h3>
+          <p class="text-gray-700">The organizations that supported our world record achievement.</p>
         </a>
         <a href="index.php?page=reading-list" class="block border-2 border-yellow-500 rounded-lg p-8 shadow-lg hover:shadow-xl transition card-hover">
           <div class="mb-4"><i class="fas fa-book fa-2x text-yellow-500"></i></div>
           <h3 class="text-xl font-bold mb-2">The Reading List</h3>
-          <p class="text-gray-700">Explore 50+ Nigerian literary masterpieces.</p>
+          <p class="text-gray-700">Explore the 50+ Nigerian literary masterpieces we read.</p>
         </a>
       </div>
     </div>
@@ -100,8 +103,8 @@
         <img src="public/naijareadfest-logo.png" alt="Naija ReadFest Logo" class="h-16 drop-shadow-lg bg-white rounded p-2" loading="lazy" width="64" height="64" />
         <span class="gwr-logo-rotate"><img src="public/gwr.png" alt="Official Attempt" class="h-16 drop-shadow-lg bg-white rounded p-2" loading="lazy" width="64" height="64" /></span>
       </div>
-      <h2 class="text-3xl font-extrabold mb-4">Stay Connected to the Record!</h2>
-      <p class="text-lg text-gray-700 mb-8">Follow our Guinness World Record journey for real-time updates, behind-the-scenes content, and exclusive access to our marathoners.</p>
+      <h2 class="text-3xl font-extrabold mb-4">Stay Connected to Our Achievement!</h2>
+      <p class="text-lg text-gray-700 mb-8">Follow our Guinness World Record success story for behind-the-scenes content, highlights, and memories from our marathoners.</p>
       <div class="flex flex-col sm:flex-row justify-center items-center gap-4 mb-8">
         <a href="https://www.facebook.com/NigeriaReads" target="_blank" class="px-6 py-3 rounded-lg bg-blue-600 text-white font-bold text-lg flex items-center gap-2 shadow-lg hover:bg-blue-700 transition"><i class="fab fa-facebook-f"></i> Facebook</a>
         <a href="https://twitter.com/NigeriaReadsNGO" target="_blank" class="px-6 py-3 rounded-lg bg-gray-900 text-white font-bold text-lg flex items-center gap-2 shadow-lg hover:bg-black transition">

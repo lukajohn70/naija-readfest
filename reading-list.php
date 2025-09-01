@@ -8,17 +8,17 @@
     <h1 class="text-5xl md:text-6xl font-extrabold text-white text-center mb-2 drop-shadow">Naija ReadFest Reading List</h1>
     <h2 class="text-xl md:text-2xl font-bold text-yellow-300 text-center mb-6 drop-shadow" style="text-shadow: 0 2px 8px rgba(0,0,0,0.10)">Guinness World Record – Official Attempt: Celebrating Nigerian Literature</h2>
     <div class="flex flex-wrap justify-center gap-4 mb-4">
-      <span class="bg-gray-800/80 text-white px-6 py-2 rounded-full text-lg font-semibold flex items-center gap-2 border border-white/20">424-Hour Guinness World Record – Official Attempt</span>
+      <span class="bg-gray-800/80 text-white px-6 py-2 rounded-full text-lg font-semibold flex items-center gap-2 border border-white/20">424-Hour Guinness World Record – Official Attempt COMPLETED</span>
     </div>
     <div class="flex justify-center">
-      <span class="inline-block bg-yellow-300 text-black font-bold px-8 py-3 rounded-full text-lg shadow border-2 border-white" style="letter-spacing: 0.04em;">Guinness World Record – Official Attempt</span>
+      <span class="inline-block bg-yellow-300 text-black font-bold px-8 py-3 rounded-full text-lg shadow border-2 border-white" style="letter-spacing: 0.04em;">🎉 RECORD ACHIEVED! 🎉</span>
     </div>
   </div>
 </div>
 <div class="w-full max-w-7xl mx-auto px-2 md:px-8 pb-16 mt-0">
-  <h2 class="text-5xl font-extrabold text-green-700 text-center mb-2 mt-2">Curated Reading List</h2>
+  <h2 class="text-5xl font-extrabold text-green-700 text-center mb-2 mt-2">Books Successfully Read</h2>
   <div class="text-xl text-gray-700 text-center mb-2">
-    50+ Nigerian Masterpieces for the Naija ReadFest <span class="text-red-600 font-bold">Guinness World Record – Official Attempt</span>
+    50+ Nigerian Masterpieces Successfully Read During the Naija ReadFest <span class="text-red-600 font-bold">Guinness World Record – Official Attempt</span>
   </div>
   <div class="flex justify-center mb-8">
     <span class="block w-24 h-1 bg-yellow-400 rounded-full"></span>
@@ -122,14 +122,13 @@
 </div>
 <div class="flex justify-center w-full mt-12 mb-8">
   <div class="bg-white border-2 border-red-200 rounded-2xl shadow p-8 max-w-xl w-full text-center">
-    <h3 class="text-2xl md:text-3xl font-bold mb-3">Have a Book Suggestion?</h3>
+    <h3 class="text-2xl md:text-3xl font-bold mb-3">Celebrating Our Achievement</h3>
     <div class="text-gray-700 text-lg mb-6">
-      We're always looking for great Nigerian stories! Suggest a book for future editions or events and help shape the next <span class="text-red-600 font-bold">Guinness World Record – Official Attempt.</span>
+      We successfully completed our Guinness World Record attempt by reading these incredible Nigerian stories. This achievement celebrates the richness and diversity of Nigerian literature and our commitment to promoting reading culture.
     </div>
-    <a href="https://forms.gle/nDc1xuMjRTSkj4fS9" target="_blank" rel="noopener noreferrer" class="inline-flex items-center justify-center gap-2 bg-red-600 hover:bg-red-700 text-white font-bold text-lg px-8 py-4 rounded-full shadow transition-all duration-200 mt-2 hover:scale-105 hover:shadow-xl">
-      <i class="fas fa-lightbulb text-yellow-400"></i>
-      Suggest a Book
-    </a>
+    <div class="bg-green-100 text-green-700 px-6 py-3 rounded-full text-lg font-semibold">
+      🎉 Mission Accomplished! 🎉
+    </div>
   </div>
 </div>
 
