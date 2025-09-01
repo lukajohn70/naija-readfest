@@ -32,10 +32,7 @@
         Guinness World Record – Official Attempt: Longest Marathon Reading Aloud by a Team
       </div>
       
-      <!-- Marathon Progress Tracker -->
-      <div class="mb-8 max-w-4xl mx-auto">
-        <?php include 'marathon-progress.php'; ?>
-      </div>
+
       
 
       <style>

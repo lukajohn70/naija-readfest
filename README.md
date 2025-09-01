@@ -54,7 +54,7 @@ naijareadfest/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/lukajohn70/naija-readfest.git
+   git clone https://github.com/lukajohn70/naijareadfest.git
    ```
 
 2. Set up your web server (Apache/Nginx) to serve the files

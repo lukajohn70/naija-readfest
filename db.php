@@ -4,7 +4,7 @@
 $DB_HOST = 'localhost';
 $DB_USER = 'root';
 $DB_PASS = 'root'; // Default MAMP MySQL password
-$DB_NAME = 'naijareadfest'; // You'll need to create this database
+$DB_NAME = 'naijareadfest_meals'; // Database for volunteer meal booking system
 
 $mysqli = new mysqli($DB_HOST, $DB_USER, $DB_PASS, $DB_NAME);
 if ($mysqli->connect_errno) {
